@@ -1,7 +1,7 @@
 # solar-system-simulation
 
 In this project I implemented a simulation of our solar system and studied the behavior of an asteroid passing close by Jupiter. Three different numerical integrators were studied in terms
-of energy conservation – Euler, Euler-Cromer, and velocity Verlet. The project was done as a final project in the course SI1336 Simulation and Modeling at KTH. A summary of the used methods and results can be found [here](results.pdf).
+of energy conservation – Euler, Euler-Cromer, and velocity Verlet. The project was done as a final project in the course Simulation and Modeling at KTH. A summary of the used methods and results can be found [here](results.pdf).
 
 Below is a short GIF showing 200 days of a simulation of the inner and outer solar system based on the velocity Verlet method.
 
